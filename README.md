@@ -2,6 +2,10 @@
 
 I’m a postdoctoral researcher at the Department of Statistics at the University of Oxford. My research develops methods for reliable decision-making and inference in machine learning systems, especially in settings where models must reason under uncertainty and make effective use of computation. I work across reinforcement learning, Bayesian inference, experimental design, and Monte Carlo methods.
 
+I'm an author and maintainer of two open-source projects:
+- [cuthbert](https://github.com/state-space-models/cuthbert) - A JAX library for inference in state-space models.
+- [TestBED](https://github.com/testbed-benchmark/testbed) - A PyTorch library for developing and testing Bayesian experimental design algorithms.
+
 ### Where can I find you?
 
 - [My corner of the internet](https://saheliqbal.com/).
