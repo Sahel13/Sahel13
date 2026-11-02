@@ -4,7 +4,7 @@ I’m a postdoctoral researcher at the Department of Statistics at the Universit
 
 I'm an author and maintainer of two open-source projects:
 - [cuthbert](https://github.com/state-space-models/cuthbert) - A JAX library for inference in state-space models.
-- [TestBED](https://github.com/testbed-benchmark/testbed) - A PyTorch library for developing and testing Bayesian experimental design algorithms.
+- [TestBED](https://github.com/testbed-benchmark/testbed) - A PyTorch library for developing and testing algorithms for Bayesian experimental design.
 
 ### Where can I find you?
 
