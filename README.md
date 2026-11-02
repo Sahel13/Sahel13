@@ -4,6 +4,6 @@ I’m a postdoctoral researcher at the Department of Statistics at the Universit
 
 ### Where can I find you?
 
-- [My corner of the internet](https://sahel13.github.io/).
+- [My corner of the internet](https://saheliqbal.com/).
 - [X](https://x.com/sahel_iqbal).
-- [Email](mailto:sahel.iqbal@aalto.fi).
+- [Email](mailto:sahel.iqbal@stats.ox.ac.uk).
